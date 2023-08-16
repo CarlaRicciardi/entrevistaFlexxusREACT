@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "HEADSET GAMER HAVIT HV-H2232 D",
+    "code": "CODE143706",
+    "price": 3000,
+    "img": "https://www.havit.hk/wp-content/uploads/2020/06/1-16.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "HEADSET GAMER NOGA STORMER",
+    "code": "CODE185756",
+    "price": 2550,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_683619-MLA44295650447_122020-F.webp"
+  },
+
+  {
+    "id": 3,
+    "name": "HEADSET GAMER CONSTRICTOR",
+    "code": "CODE143456",
+    "price": 2700,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_704559-MLA48172099078_112021-F.webp"
+  },
+
+  {
+    "id": 4,
+    "name": "MOUSE GAMER STORMER",
+    "code": "CODE895432",
+    "price": 1500,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_777559-MLU70525752975_072023-F.webp"
+  }
+]

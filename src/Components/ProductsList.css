@@ -1,0 +1,6 @@
+.productsListContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 39px;
+  margin-top: 88px;
+}
